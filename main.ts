@@ -25,7 +25,7 @@ enum SignEnum {
  */
 //% block="基本-扩展"
 //% weight=115 color=#0066FF icon="\uf00a"
-namespace custom {
+namespace basic_ext {
    /**
     * 等待某引脚的模拟信号状态是否满足条件
     */
